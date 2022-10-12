@@ -9,19 +9,20 @@
     <title>M</title>
 </head>
 <body>
-    <p style="text-align: right;"><b><i>Prof. Henry Nana</i></b><br>
+    <p style="text-align: right;"><b><em>Prof. Henry Nana</em></b><br>
         New Campus<br>
         Starz University<br>
         Barrolle Practice Road,<br>
         Liberia<br>
-        <b><i>Tel:</i></b>123-456-7890<br>
-        <b><i>Email:</i></b> no_reply@example.com<br><br>
+        <b><em>Tel:</em></b>123-456-7890<br>
+        <b><em>Email:</em></b> no_reply@example.com<br><br>
         29 September 2022</p><br>
 <p><b>Mr. Albert Momo</b><br>
     Main Campus, Starz University<br>
     Airfield, Sinkor<br>
     Monrovia, Liberia</p><br>
-    <h2>Re: Albert Momo university application</h2><hr >
+    <h1>Re: Albert Momo university application</h1>
+<hr />
     <p>Dear Mr. Momo,</p>
     <p>Thank you for your recent application to join us at the Starz University’s science faculty to study
         as part of your <abbr title="Doctor of Philosoph">PhD</abbr> next year. I will answer your questions one by one, in the following sections.
@@ -52,7 +53,7 @@
         expect the research to take, required staff and other resources, and anything else you think we'd 
         need to know? Thanks.
         </p>
-        <h2>Exotic dance moves</h2>o
+        <h2>Exotic dance moves</h2>
     <p>Yes, you are right! As part of my post-doctorate work, I did study exotic tribal dances. To 
         answer your question, my favourite dances are as follows, with definitions:</p>
     <p>Polynesian chicken dance
@@ -73,7 +74,7 @@
         </p>   
     <p>Yours sincerely,</p>
     <p>Prof. Henry Nana</p> 
-    <p>Starz University motto: "Aim for Global Success" – <i>Technology is our Passion; Education is 
-        Our Life</i></p>
+    <p>Starz University motto: <q>Aim for Global Success</q> – <em>Technology is our Passion; Education is 
+        Our Life</em></p>
 </body>
 </html>
